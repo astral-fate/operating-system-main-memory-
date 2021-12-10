@@ -86,11 +86,11 @@ Rent friend code is the code that can be shared and compiled
 
 Forward mapped scheme The actress translation method for the architecture of which the logical addresses are divided into a page number considering of 20 bits in the page office consisting of 12 bit the forward mad scheme addresses translation works from the outer page table inward. 
 
-Page Table Is One ApproachForHandlingAddressesSpacesLargerThan32Bits
+Page Table Is One Approach For Handling Addresses Spaces Larger than 32 Bits
 
 Invented page table is a solution to solve the drawbacks problem
 
-Sullair 64-bit with you pretty system are tightly integrated low overheads virtual memory that is running on
+Sollair 64-bit with you pretty system are tightly integrated low overheads virtual memory that is running on
 SPARC cpu
 
 Translation look up walk is a functionality found in many modern cpus, that copies the entry of TSB into the translation look up buffer
